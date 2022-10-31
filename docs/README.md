@@ -1,4 +1,5 @@
 # oNediolus.github.io
+<<<<<<< HEAD
 
 !![Equinox](https://www.trendsmap.com/ipx/https://pbs.twimg.com/media/FgTSZIjUAAAcCt7.jpg "Equinox")
 
@@ -25,3 +26,8 @@
 [DUSTCELL](https://www.youtube.com/c/DUSTCELL)
 [Giga](https://www.youtube.com/c/GigaVideos)
 [shima](https://www.youtube.com/c/shimaofficial)
+=======
+##[チートシート](https://qiita.com/Qiita/items/c686397e4a0f4f11683d)
+
+[def]: https://files.slack.com/files-pri/T01UUTYEL9Y-F047TUNAM4L/img_5870.png "初音ミク"
+>>>>>>> 7c0ba3b539241499738882cdb25acf1b61795ce5
